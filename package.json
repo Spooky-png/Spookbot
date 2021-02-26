@@ -1,0 +1,19 @@
+{
+  "name": "spookbot",
+  "version": "1.0.0",
+  "description": "Spookbot for discord!",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spooky-png/Spookbot.git"
+  },
+  "author": "Spooky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spooky-png/Spookbot/issues"
+  },
+  "homepage": "https://github.com/Spooky-png/Spookbot#readme"
+}
