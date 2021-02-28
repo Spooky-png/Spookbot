@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Spooky-png/Spookbot/issues"
   },
-  "homepage": "https://github.com/Spooky-png/Spookbot#readme"
+  "homepage": "https://github.com/Spooky-png/Spookbot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
 }
