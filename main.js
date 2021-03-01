@@ -18,6 +18,8 @@ client.on('message', message => {
         message.channel.send('Swamp Sux');
     } else if (command == 'github'){
         message.channel.send('https://www.github.com/Spooky-png');
+    } else if (command == 'buddha'){
+        message.channel.send('whodatboiwhohimis');
     }
 });
 
