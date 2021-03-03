@@ -21,7 +21,7 @@ client.on('message', message => {
     } else if (command == 'buddha'){
         message.channel.send('whodatboiwhohimis');
     } else if (command == 'stop'){
-        message.channel.send('stopprocastinating');
+        message.channel.send('keepprocastinating');
     }
 });
 
